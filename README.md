@@ -1,8 +1,6 @@
 # PAF-ElectroGrid-PowerOutage
 Power Outage Front end 
 
-IT No:- 
-Name :- 
 
 | IT No       | Name            |
 | ------------| --------------- |
